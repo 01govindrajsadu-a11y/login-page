@@ -1,0 +1,11 @@
+.login-card{
+    min-width: 35vw;
+    max-width: 400px;
+    margin: auto;
+    margin-top: 200px;
+    border-radius: 15px;
+    display : flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: start;
+}
